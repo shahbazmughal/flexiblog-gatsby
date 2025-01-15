@@ -13,3 +13,18 @@ Minimal-v2	gatsby new site ./starters/gatsby-starter-flexiblog-minimal-v2
 News		gatsby new site ./starters/gatsby-starter-flexiblog-news
 Personal	gatsby new site ./starters/gatsby-starter-flexiblog-personal
 Science		gatsby new site ./starters/gatsby-starter-flexiblog-science
+
+
+
+
+
+# Go into the newly created Gatsby site
+cd site
+
+# Run Gatsby development site
+npm run develop
+
+# Build your Gatsby site for production
+npm run build
+# Serve production site
+npm run serve
