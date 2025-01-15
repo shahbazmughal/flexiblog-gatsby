@@ -1,0 +1,15 @@
+cd @elegantstack
+
+OLD:
+gatsby new site ./starters/gatsby-starter-flexiblocks
+
+NEW:
+Agency		gatsby new site ./starters/gatsby-starter-flexiblog-agency
+Beauty		gatsby new site ./starters/gatsby-starter-flexiblog-beauty
+Education	gatsby new site ./starters/gatsby-starter-flexiblog-education
+Medical		gatsby new site ./starters/gatsby-starter-flexiblog-medical
+Minimal		gatsby new site ./starters/gatsby-starter-flexiblog-minimal
+Minimal-v2	gatsby new site ./starters/gatsby-starter-flexiblog-minimal-v2
+News		gatsby new site ./starters/gatsby-starter-flexiblog-news
+Personal	gatsby new site ./starters/gatsby-starter-flexiblog-personal
+Science		gatsby new site ./starters/gatsby-starter-flexiblog-science
